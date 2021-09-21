@@ -1,0 +1,30 @@
+body{
+  background-blend-mode: luminosity;
+  background-color:white;
+}
+
+li{
+  font-size: 20px;
+  font-family:sans-serif;
+  color:gold;
+}
+
+p{
+  font-size:30px;
+}
+
+h1{
+  font-size: 59px;
+  font-family: arial;
+  color:black;
+}
+
+h2{
+  font-size: 69px;
+  font-family: arial;
+  color:gray;
+}
+
+a{
+  color:green;
+}
